@@ -30,6 +30,10 @@ Welcome to my GitHub profile! I'm **Upani Gunathunga**, a passionate developer f
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upani-Gunathunga&layout=compact&theme=radical)
 
+## 📈 GitHub Contribution Graph
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Upani-Gunathunga&theme=radical)](https://github.com/Upani-Gunathunga)
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
