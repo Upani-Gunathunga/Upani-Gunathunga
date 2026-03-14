@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi ! 👋
 
 Welcome to my GitHub profile! I'm **Upani Gunathunga**, a passionate developer focused on creating innovative solutions and contributing to the open-source community.
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm **Upani Gunathunga**, a passionate developer f
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
