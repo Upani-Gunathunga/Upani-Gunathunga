@@ -5,7 +5,7 @@
 
 *Building at the intersection of embedded systems, machine learning, and healthcare*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upani_Gunathunga-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/Upani-Gunathunga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upani_Gunathunga-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upani-gunathunga-20a842307/)
 [![Email](https://img.shields.io/badge/Email-upaniayodhya@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:upaniayodhya@gmail.com)
 [![Location](https://img.shields.io/badge/Colombo,_Sri_Lanka-📍-green)]()
 
@@ -14,9 +14,9 @@
 
 ## About Me
 
-I'm a Biomedical Engineering undergraduate at the University of Moratuwa (Cumulative GPA: 3.84 / 4.0) with a strong interest in **embedded machine learning**, **biomedical signal processing**, and **medical device development**.
+I'm a Biomedical Engineering undergraduate at the University of Moratuwa (Cumulative GPA: 3.84 / 4.0) with a strong interest in **embedded machine learning**,**computer vision**, **biomedical signal processing**, and **medical device development**.
 
-I'm actively seeking internship opportunities in **embedded systems**, **machine learning**, or **biomedical engineering** where I can contribute to meaningful, real-world problems.
+I'm actively seeking internship opportunities in **embedded systems**, **machine learning**, **computer vision**, or **biomedical engineering** where I can contribute to meaningful, real-world problems.
 
 ---
 
@@ -46,7 +46,7 @@ Real-time respiratory breath classification deployed entirely on an ESP32-S3-N1R
 
 
 ### 🏥 Adaptive Smart Infusion Pump Monitor
-`C++` `Python` `React.js` `SQL` `ESP32` `IoT`
+`C++` `ESP32` `IoT`
 
 Low-cost infusion pump monitoring system designed for resource-constrained clinical settings, based on requirements from Apeksha Hospital, Sri Lanka.
 - IoT-based ward-level monitoring with patient history integration
@@ -104,7 +104,13 @@ Embedded ML · Sensor data processing · I2S audio · PCB design (Altium Designe
 </div>
 
 ---
+## 📚 Certifications
 
+- **Convolutional Neural Networks** — DeepLearning.AI / Coursera (Andrew Ng), 2026
+- **Advanced Learning Algorithms** — DeepLearning.AI / Coursera (Andrew Ng), 2026
+- **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI / Coursera (Andrew Ng), 2026
+
+---
 ## 🏅 Achievements & Leadership
 
 - 🥈 **Second Place** — All-Island Article Competition for Undergraduates, Green Building Council of Sri Lanka (World Environment Day 2024)
@@ -115,74 +121,19 @@ Embedded ML · Sensor data processing · I2S audio · PCB design (Altium Designe
 
 ---
 
-## 📚 Certifications
 
-- **Convolutional Neural Networks** — DeepLearning.AI / Coursera (Andrew Ng), 2026
-- **Advanced Learning Algorithms** — DeepLearning.AI / Coursera (Andrew Ng), 2026
-- **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI / Coursera (Andrew Ng), 2026
+
+## 📈 GitHub Contribution Graph
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Upani-Gunathunga&theme=radical)](https://github.com/Upani-Gunathunga)
 
 ---
-
 <div align="center">
 
 *Open to internship opportunities in embedded systems, machine learning, and biomedical engineering.*
 *Feel free to reach out at upaniayodhya@gmail.com*
 
 </div>
-
-
-# Hi ! 👋
-
-Welcome to my GitHub profile! I'm **Upani Gunathunga**, a passionate developer focused on creating innovative solutions and contributing to the open-source community.
-
-## 🚀 About Me
-
-- 🔭 I'm currently working on exciting projects and exploring new technologies
-- 🌱 I'm constantly learning and improving my skills
-- 💬 Ask me about software development, programming, and tech
-- 📫 How to reach me: [Add your contact info]
-- ⚡ Fun fact: [Add something interesting about yourself]
-
-## 💻 Skills & Technologies
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub Statistics
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Upani-Gunathunga&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upani-Gunathunga&layout=compact&theme=radical)
-
-## 📈 GitHub Contribution Graph
-
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Upani-Gunathunga&theme=radical)](https://github.com/Upani-Gunathunga)
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
-
-## 📌 Featured Projects
-
-- **[Project Name](https://github.com/Upani-Gunathunga/project-name)** - Brief description of your project
-- **[Another Project](https://github.com/Upani-Gunathunga/another-project)** - What this project does
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Add your latest blog posts here -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
