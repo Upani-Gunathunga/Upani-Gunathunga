@@ -130,7 +130,7 @@ Embedded ML · Sensor data processing · I2S audio · PCB design (Altium Designe
 ---
 <div align="center">
 
-*Open to internship opportunities in embedded systems, machine learning, and biomedical engineering.*
+*Open to internship opportunities in embedded systems,computer vision, machine learning, and biomedical engineering.*
 *Feel free to reach out at upaniayodhya@gmail.com*
 
 </div>
