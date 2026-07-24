@@ -273,8 +273,7 @@ PCB schematic & layout design · Closed-loop control hardware · Prototyping
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Upani-Gunathunga&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upani-Gunathunga&layout=compact&theme=radical&hide_border=true)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Upani-Gunathunga&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
