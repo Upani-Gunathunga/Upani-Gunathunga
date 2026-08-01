@@ -34,7 +34,7 @@ My work sits where **computer vision meets embedded hardware** — problems that
 <tr>
 <td width="33%" valign="top">
 
-**🎯 Primary**
+
 **Computer Vision**
 
 Vision-based assistive tech
@@ -46,7 +46,7 @@ Applied AI for real problems
 </td>
 <td width="33%" valign="top">
 
-**⚙️ Secondary**
+
 **Machine Learning**
 
 Deep Learning · PyTorch
@@ -58,7 +58,7 @@ Real-time inference
 </td>
 <td width="33%" valign="top">
 
-**🤖 Additional**
+
 **Autonomous Robotics**
 
 Robot perception
