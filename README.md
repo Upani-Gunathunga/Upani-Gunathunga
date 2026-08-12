@@ -4,7 +4,7 @@
 
 **Biomedical Engineering Undergraduate · University of Moratuwa**
 
-*Computer vision and embedded intelligence for human-centered healthcare and assistive systems*
+*Computer vision, Signal Processing, Electronics and embedded intelligence for human-centered healthcare and assistive systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Upani_Gunathunga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/upani-gunathunga-biomedicaleng)
 [![Email](https://img.shields.io/badge/Email-upaniayodhya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upaniayodhya@gmail.com)
@@ -20,11 +20,7 @@
 
 Third-year **Biomedical Engineering** undergraduate (CGPA **3.84 / 4.0**, two Dean's List semesters) in the Department of Electronic and Telecommunication Engineering, University of Moratuwa.
 
-My work sits where **computer vision meets embedded hardware** — problems that can't be solved on a laptop alone, where a model has to run on a Raspberry Pi in a clinic, or a microcontroller has to decide in real time, or a person with no technical background has to be able to use the result.
 
-🔭 I build the full path myself: dataset → model → deployment → the board it runs on
-🌱 Currently deepening **PyTorch & deep learning** by reproducing published architectures from scratch
-🎓 Long term: graduate research on vision systems that serve people directly — healthcare, accessibility, assistive technology
 
 ---
 
